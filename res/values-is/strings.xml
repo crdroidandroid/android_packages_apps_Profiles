@@ -15,7 +15,6 @@
      limitations under the License.
 -->
 <resources>
-    <string name="profile_picker_title">Профілі</string>
-    <string name="profile_trust_agent_title">Давераны агент профіляў</string>
-    <string name="trust_by_profile">Давераны профіль</string>
+    <string name="profile_picker_title">Notandasnið</string>
+    <string name="profile_none">Ekkert</string>
 </resources>
